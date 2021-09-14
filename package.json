@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinycreative/react-native-intercom.git"
+    "url": "git+https://github.com/ericschaal/react-native-intercom.git"
   },
   "author": "Asa Miller",
   "contributors": [
@@ -23,6 +23,10 @@
     {
       "name": "Jason Brown",
       "email": "browniefed@gmail.com"
+    },
+    {
+      "name": "Eric Schaal",
+      "email": "eric.schaal@nxtsens.com"
     }
   ],
   "license": "MIT",
